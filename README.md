@@ -1,5 +1,10 @@
-<h1>Data Science Portfolio by Chris Westendorf</h1>
-<p>Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. </p>
+<meta name="description" content="Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes." />
+<meta name="title" property="og:title" content="Data Science Portfolio of Chris Westendorf" />
+<meta name="image" property="og:image" content="https://drscdn.500px.org/photo/87626375/q%3D80_m%3D2000/v2?sig=2ec35eb20012d03e7e84fbdc030d356ef236a6d7af245d7e023575caff4bf912" />
+<meta name="description" property="og:description" content="Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes." /><meta name="author" content="Chris Westendorf" />
+
+<h1>Data Science Portfolio of Chris Westendorf</h1>
+<p>Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.</p>
 
 <h2>Contents</h2>
 <ul>
