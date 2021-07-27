@@ -14,7 +14,7 @@
             <li><a href="https://github.com/auguryChris/portfolio/blob/main/data_manipulation/dm_metro_teams.ipynb">Wrangling Metro Sports</a>: Exposing hidden unicode during data imports. Nested functions for modular code efficiency. Correlation & T-test for a convenient data task excuse.</li>
             <li><a href="https://github.com/auguryChris/portfolio/blob/main/data_manipulation/dm_plotly_exploration.ipynb">Wrangling API and Location Data</a>: Import dataset, map neighborhoods, call foursquare API for nearby venues, extrapolate and resample data, create and export dataframe for downstream.</li>
             <li><a href="https://github.com/auguryChris/portfolio/blob/main/data_manipulation/n_grams_markov.ipynb">NLP: N-Grams & Markov</a>: Train a model to create Shakespearan Sonnets; Train a Hidden Markov Model (HMM) that is able to tag words with their part-of-speech (POS)</li>
-            <li><a href="https://github.com/auguryChris/portfolio/blob/main/data_manipulation/time_series.ipynb">Time Series Analysis</a>: Using COVID-19 Data we explore: Seasonal Decomposition, Trend Lines, Weighted Moving Averages (WMA), "Time" Exponential Moving Averages (EMA), Similarity using Euclidean Distanct, Calculate Dynamic Time Warping (DTW) Cost, Conduct Stationary Tests, Autocorrelation, Partial Autocorrelation, ARMA Forecasting, Vector Autoregresion (VAR) Forecasting, Granger Causality.</li>
+            <li><a href="https://github.com/auguryChris/portfolio/blob/main/data_manipulation/time_series.ipynb">Time Series Analysis</a>: Using COVID-19 data to explore: Seasonal Decomposition, Trend Lines, Weighted Moving Averages (WMA), "Time" Exponential Moving Averages (EMA), Similarity using Euclidean Distanct, Calculate Dynamic Time Warping (DTW) Cost, Conduct Stationary Tests, Autocorrelation, Partial Autocorrelation, ARMA Forecasting, Vector Autoregresion (VAR) Forecasting, Granger Causality.</li>
             <li><a href="https://github.com/auguryChris/portfolio/blob/main/data_manipulation/streaming_data_mining.ipynb">Streaming Data</a>: Using a file of tweets to explore streaming data techniques: Reservoir Sampling, Counting, Bloom Filter, and a Lossy Counter.</li>
         </ul>
         <p><em>Tools: Regex, NumPy, SciPy, Pandas, Requests, DateTime, Collections, GeoPy, Folium, NLTK, Re, Statsmodels, Path, Sklearn, Math</em></p>
@@ -59,7 +59,7 @@
         <ul>
             <li><a href="https://github.com/auguryChris/portfolio/blob/main/micro_projects/covid-19-la/README.md">Covid-19’s Impact on the Value of Homes in LA.</a> Extracted millions of data points by mining real estate APIs to conduct quantitative analysis and statistical analysis of the housing market as a function of Covid-19 cases: regression, auto-correlation, frequency decomposition, rolling averages, difference in difference, causal inference.</li>
         </ul>
-        <p><em>Tools: Dask, Requests, JSON, Pandas, Pickle,Time, Statistics, Aiohttp, Numpy, Altair, Plotly, Datetime, Statsmodels,</em></p>
+        <p><em>Tools: Dask, Requests, JSON, Pandas, Pickle,Time, Statistics, Aiohttp, Numpy, Altair, Plotly, Datetime, Statsmodels</em></p>
     </li>
 </ul>
 <h2>Getting In Touch</h2>
