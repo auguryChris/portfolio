@@ -9,6 +9,14 @@
 <h2>Contents</h2>
 <ul>
     <li>
+        <h3>Projects</h3>
+        <ul>
+            <li><a href="https://github.com/auguryChris/portfolio/blob/main/micro_projects/covid-19-la/README.md">Covid-19’s Impact on the Value of Homes in LA:</a> Extracted millions of data points by mining real estate APIs to conduct quantitative analysis and statistical analysis of the housing market as a function of Covid-19 cases: regression, auto-correlation, frequency decomposition, rolling averages, difference in difference, causal inference.</li>
+            <li><a href="https://github.com/adityahpatel/milestone2_dating_and_beauty/blob/main/README.md">Covid-19’s Impact on the Value of Homes in LA:</a> Explored and benchmarked the visual recognition problem of Facial Beauty Prediction (FBP), assessing facial attractiveness that is consistent with human perception: feature engineering, convolution, scale-invariant feature transformations, bag of visual features term indexing and clustering, convolution neural networks, transfer learning, support vector regression, random forest regression, passive aggressive classification, partial fitting models, hyper parameter tuning.</li>
+        </ul>
+        <p><em>Tools: Dask, Requests, JSON, Pandas, Pickle,Time, Statistics, Aiohttp, Numpy, Altair, Plotly, Datetime, Statsmodels, CV2, tensorflow, Sklearn, Scipy,</em></p>
+    </li>
+    <li>
         <h3>Data Manipulation & Mining</h3>
         <ul>
             <li><a href="https://github.com/auguryChris/portfolio/blob/main/data_manipulation/dm_metro_teams.ipynb">Wrangling Metro Sports</a>: Exposing hidden unicode during data imports. Nested functions for modular code efficiency. Correlation & T-test for a convenient data task excuse.</li>
@@ -54,13 +62,6 @@
         </ul>
         <p><em>Tools:</em></p>
     </li>-->
-    <li>
-        <h3>Projects</h3>
-        <ul>
-            <li><a href="https://github.com/auguryChris/portfolio/blob/main/micro_projects/covid-19-la/README.md">Covid-19’s Impact on the Value of Homes in LA.</a> Extracted millions of data points by mining real estate APIs to conduct quantitative analysis and statistical analysis of the housing market as a function of Covid-19 cases: regression, auto-correlation, frequency decomposition, rolling averages, difference in difference, causal inference.</li>
-        </ul>
-        <p><em>Tools: Dask, Requests, JSON, Pandas, Pickle,Time, Statistics, Aiohttp, Numpy, Altair, Plotly, Datetime, Statsmodels</em></p>
-    </li>
 </ul>
 <h2>Getting In Touch</h2>
 <!-- <p>You can find a general portfolio here.</p> -->
