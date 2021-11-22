@@ -1,7 +1,7 @@
 # Benchmarking Facial Beauty Predictors
 By Aditya Patel and Chris Westendorf
 
-## <a href="https://github.com/adityahpatel/milestone2_dating_and_beauty/blob/main/25-cwestend-adityahp%20Benchmarking%20Facial%20Beauty%20Predictors.pdf">Read the PDF report here</a>
+## <a href="https://github.com/auguryChris/portfolio/blob/main/micro_projects/facial_beauty_prediction/Benchmarking%20Facial%20Beauty%20Predictors.pdf">Read the PDF report here</a>
 
 We set out to explore and benchmark the visual recognition problem of Facial Beauty Prediction (FBP), assessing facial attractiveness that is consistent with human perception. Such a FPB model can be used by online dating companies as a dating profile recommender.
 
