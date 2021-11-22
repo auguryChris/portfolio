@@ -47,7 +47,7 @@ Pre-Treatment Period:
 June 22, 2019 to July 22, 2019
 
 ## Step 6: Report
-https://github.com/adityahpatel/SIADS691-Covid-Real-Estate/blob/main/final_exports_pdf_charts_pkl/57-cwestend-adityahp.pdf
+https://github.com/auguryChris/portfolio/blob/main/micro_projects/covid-19-la/57-cwestend-adityahp.pdf
 
 - Charts, python objects(pkl), and PDF exported to final_exports_pdf_charts_pkl folder
 
